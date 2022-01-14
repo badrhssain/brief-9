@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@300;400;500&display=swap');
+*{
+    
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    background-color: #150F03;
+}
+#pic{
+width: 100px;
+}
+.container-fluid{
+    background-color: #150F03;
+}
+a{
+    color: white;
+}
+.nav-item {
+    color: white;
+}
+header{
+    background-image: url("restaurant-interior.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-select{
+    padding-top: 50px;
+    margin-top: 100px;
+}
+.titleh1{
+    color: white;
+    padding-left: 340px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    font-size: 80px;
+}
+main{
+    padding-left: 250px;
+    padding-top: 10px;
+
+}
+.meal-info{
+    color: rgb(0, 0, 0);
+
+}
+select{
+    padding-right: 595px;
+    margin-left: 50px;
+    margin: 50px;
+}
+#show select{
+    padding: 10px;
+}
